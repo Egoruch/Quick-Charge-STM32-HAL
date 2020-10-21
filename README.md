@@ -7,8 +7,8 @@ ___
 * STM32CubeIDE
 * HAL
  ## Connection diagram
-  ![alt text](https://cxemka.com/upload/art/ntc_stm32/ntc_10k_stm32_connection.svg)
+  ![alt text](https://cxemka.com/upload/art/qc/g/quick_charge_connection_diagram.svg)
  ## Cube
-  ![alt text](https://cxemka.com/upload/art/ntc_stm32/le_ntc_ntp.png)
+  ![alt text](https://cxemka.com/upload/art/qc/g/cube_cnf_qc.png)
 ## Tested with USB-A and USB-C with different QC chargers
-  ![alt text](https://cxemka.com/upload/art/qc/200mv_step_regulation_quick_charge.jpg)
+  ![alt text](https://cxemka.com/upload/art/qc/g/200mv_step_regulation_quick_charge.jpg)
