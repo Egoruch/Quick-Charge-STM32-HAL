@@ -1,5 +1,5 @@
 # Quick-Charge-STM32-HAL
-Simple library for get 9V/12V/configurable output with step 0.2V from chargers with Quick Charge 2.0/3.0.
+Simple library for get 9V/12V/20V/configurable output with step 0.2V from chargers with Quick Charge 2.0/3.0.
 * Article (rus): https://cxemka.com/63-podklyuchenie-ntc-termistora-k-stm32-izmerenie-temperatury.html
 * Youtube (sub): https://www.youtube.com/watch?v=OWJj85EfXL4
 ___
@@ -13,7 +13,8 @@ ___
  * 9V: QC_GPIO_9V();
  * 12V: QC_GPIO_12V();
  * 20V: QC_GPIO_20V();
- For regulation (continuous) mode execute initialization and then control output voltage by incrementation and decrementation functions:
+ 
+ * For regulation (continuous) mode execute initialization and then control output voltage by incrementation and decrementation functions:
  * QC_GPIO_Reg();
  * QC_GPIO_Inc();
  * QC_GPIO_Dec();
