@@ -22,5 +22,5 @@ ___
  ![alt text](https://cxemka.com/upload/art/mini_usb_ttl/chargers_qc.jpg)
  ## For USB Type-C neccessary resistors 5.1k between CC1, CC2 and GND
  ![alt text](https://cxemka.com/upload/art/qc/h/5100.svg)
- ## Tested with USB-A and USB-C with different QC chargers
+ ## Output voltage
   ![alt text](https://cxemka.com/upload/art/qc/g/200mv_step_regulation_quick_charge.jpg)
