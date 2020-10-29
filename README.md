@@ -14,7 +14,7 @@ ___
  * 12V: QC_GPIO_12V();
  * 20V: QC_GPIO_20V();
  
- * For regulation (continuous) mode execute initialization and then control output voltage by incrementation and decrementation functions:
+ For regulation (continuous) mode execute initialization and then control output voltage by incrementation and decrementation functions:
  * QC_GPIO_Reg();
  * QC_GPIO_Inc();
  * QC_GPIO_Dec();
