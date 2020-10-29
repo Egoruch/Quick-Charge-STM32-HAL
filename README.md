@@ -6,7 +6,7 @@ ___
 * STM32F103C8; STM32CubeIDE; HAL
  ## Connection diagram
   ![alt text](https://cxemka.com/upload/art/qc/g/quick_charge_connection_diagram.svg)
- ## Cube
+ ## CubeMX
   ![alt text](https://cxemka.com/upload/art/qc/g/cube_cnf_qc.png)
  ## How to use
  Execute function corresponding to voltage:
@@ -18,6 +18,9 @@ ___
  * QC_GPIO_Reg();
  * QC_GPIO_Inc();
  * QC_GPIO_Dec();
-
-## Tested with USB-A and USB-C with different QC chargers
+ ## Tested with different QC chargers (USB-A and USB-C)
+ ![alt text](https://cxemka.com/upload/art/mini_usb_ttl/chargers_qc.jpg)
+ ## For USB Type-C neccessary resistors 5.1k between CC1, CC2 and GND
+ ![alt text](https://cxemka.com/upload/art/qc/h/5100.svg)
+ ## Tested with USB-A and USB-C with different QC chargers
   ![alt text](https://cxemka.com/upload/art/qc/g/200mv_step_regulation_quick_charge.jpg)
