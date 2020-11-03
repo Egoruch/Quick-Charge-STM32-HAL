@@ -15,9 +15,8 @@ ___
  * 12V: QC_GPIO_12V();
  * 20V: QC_GPIO_20V();
  
- For regulation (continuous) mode execute initialization:
+ For regulation (continuous) mode execute initialization and then set output voltage by using incrementation/decrementation functions (MAX 12V out):
  * QC_GPIO_Reg();
- And then set output voltage by using incrementation/decrementation functions (MAX 12V out):
  * +0.2V: QC_GPIO_Inc();
  * -0.2V: QC_GPIO_Dec();
  ## Tested with different QC chargers (USB-A and USB-C)
