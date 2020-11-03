@@ -1,0 +1,7 @@
+qc_gpio.c:3:6:QC_GPIO_5V	8	static
+qc_gpio.c:33:6:QC_GPIO_9V	8	static
+qc_gpio.c:62:6:QC_GPIO_12V	8	static
+qc_gpio.c:91:6:QC_GPIO_20V	8	static
+qc_gpio.c:120:6:QC_GPIO_Reg	8	static
+qc_gpio.c:149:6:QC_GPIO_Inc	8	static
+qc_gpio.c:177:6:QC_GPIO_Dec	8	static
