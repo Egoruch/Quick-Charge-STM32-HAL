@@ -1,7 +1,7 @@
 # Quick-Charge-STM32-HAL
 Simple library for get 9V/12V/20V/configurable output with step 0.2V from chargers with Quick Charge 2.0/3.0.
-* Article (rus): https://cxemka.com/63-podklyuchenie-ntc-termistora-k-stm32-izmerenie-temperatury.html
-* Youtube (sub): https://www.youtube.com/watch?v=OWJj85EfXL4
+* Article (rus): 
+* Youtube (rus): https://youtu.be/tvPMxghyDuc
 ___
 * STM32F103C8; STM32CubeIDE; HAL
  ## Connection diagram
