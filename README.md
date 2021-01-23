@@ -1,5 +1,5 @@
 # Quick-Charge-STM32-HAL
-Simple library for get 9V/12V/20V/configurable output with step 0.2V from chargers with Quick Charge 2.0/3.0.
+Simple library to get 9V/12V/20V/configurable output with step 0.2V from chargers with Quick Charge 2.0/3.0.
 * Article (rus): https://cxemka.com/61-poluchenie-9v-12v-ot-quick-charge-s-mikrokontrollerom-stm32-regulirovka.html
 * Youtube (rus): https://youtu.be/tvPMxghyDuc
 ___
